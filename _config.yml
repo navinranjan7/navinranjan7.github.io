@@ -109,13 +109,16 @@ author:
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/rameshkrsah"
+      url: "https://www.linkedin.com/in/navin-ranjan-a44432122/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/rameshKrSah"
+      url: "https://github.com/navinranjan7"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/rameshkrshah"
+      url: "https://twitter.com/ranjan_navin"
+    - label: "Google Scholar"
+      icon: "ai ai-google-scholar-square ai-3x"
+      url: "https://twitter.com/ranjan_navin"
 
 
 # Site Footer
@@ -123,10 +126,10 @@ footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/rameshKrSah"
+      url: "https://github.com/navinranjan7"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/rameshkrshah"
+      url: "https://twitter.com/ranjan_navin"
       
 # Reading Files
 include:
