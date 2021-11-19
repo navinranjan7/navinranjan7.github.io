@@ -1,12 +1,12 @@
 # main links
 main:
-  - title: "Research"
+  - title: "Home"
     url: /archives/
   # - title: "Literature"
   #   url: ../literature/
   - title: "Publications"
     url: /publications/
-  - title: "Talks"
+  - title: "CV"
     url: /talks/
   - title: "About"
     url: /about/
