@@ -80,7 +80,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : rameshkrshah
+  username               : navinranjan7
 facebook:
   username               :
   app_id                 :
@@ -104,8 +104,8 @@ analytics:
 # Site Author
 author:
   name             : "Navin Ranjan"
-  avatar           : "/assets/images/bio_pic.jpg"
-  bio              : "Researcher IoT and Big Data Research Center (IBRC), Incheon National University"
+  avatar           : "/assets/images/navin.jpg"
+  bio              : "Researcher at IoT and Big Data Research Center (IBRC), Incheon National University"
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
