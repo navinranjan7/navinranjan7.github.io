@@ -108,7 +108,7 @@ author:
   bio              : "Researcher at IoT and Big Data Research Center (IBRC), Incheon National University"
   links:
     - label: "Google Scholar"
-      icon: "fab fa-fw fa-google-scholar-square"
+      icon: "google-scholar"
       url: "https://scholar.google.com/citations?user=FVsI_OcAAAAJ&hl=ko"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
