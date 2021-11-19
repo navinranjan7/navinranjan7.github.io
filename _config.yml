@@ -107,17 +107,17 @@ author:
   avatar           : "/assets/images/navin.jpg"
   bio              : "Researcher at IoT and Big Data Research Center (IBRC), Incheon National University"
   links:
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/navin-ranjan-a44432122/"
+    - label: "Google Scholar"
+      icon: "fab fa-fw fa-google-scholar-square"
+      url: "https://scholar.google.com/citations?user=FVsI_OcAAAAJ&hl=ko"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/navinranjan7"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/navin-ranjan-a44432122/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/ranjan_navin"
-    - label: "Google Scholar"
-      icon: "ai ai-google-scholar-square ai-3x"
       url: "https://twitter.com/ranjan_navin"
 
 
