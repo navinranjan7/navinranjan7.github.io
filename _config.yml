@@ -24,8 +24,8 @@ author:
   avatar           : "profile.png"
   name             : "Navin Ranjan (he/his)"
   pronouns         : #"he/his"  
-  bio              : "PhD Student, Vision and Image Processing Lab, Rochester Institute of Technology (RIT), Rochester, NY, USA"
-  location         : #"Rochester, NY, USA"
+  bio              : "PhD Student, Vision and Image Processing Lab, Rochester Institute of Technology (RIT)"
+  location         : "Rochester, NY, USA"
   employer         : #"Rochester Institute of Technology (RIT)"
   uri              : # URL
   email            : #"none@example.org" 
