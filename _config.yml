@@ -22,11 +22,11 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Navin Ranja"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Phd Student at Rochester Institute of Technology"
+  location         : "Rochester, NY"
+  employer         : "Rochester Institute of Technology (RIT)"
   uri              : # URL
   email            : "none@example.org" 
 
