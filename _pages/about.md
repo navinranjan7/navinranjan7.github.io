@@ -6,9 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-# About Me
+# About Me 
 
-Hi, I’m a **PhD student in Electrical and Computer Engineering (ECE)** at the Rochester Institute of Technology, working with [Dr. Andreas Savakis](https://www.rit.edu/directory/axseec-andreas-savakis) in the Vision & Image Processing Lab. My research is focused on developing efficient Vision Transformers for downstream tasks tailored for edge devices or resource-constrained environments. I specialize on a model compression and optimization techniques, including explainability-drive quantization and mixed-precision bit-allocation strategy, under constraints such as model size, bit operations, and latency.   
+Hi, I’m a **PhD student in Electrical and Computer Engineering (ECE)** at the Rochester Institute of Technology, working with [Dr. Andreas Savakis](https://www.rit.edu/directory/axseec-andreas-savakis) in the Vision & Image Processing Lab. My research focuses on developing **efficient and scalable Vision Transformers (ViTs)** for downstream tasks optimized for edge devices and resource-constrained environments. I specialize in model compression and optimization techniques, including explainability-driven quantization and mixed-precision bit allocation to ensure models meet constraints such as size, computational cost, and latency.
 
 Research Interests
 ======
