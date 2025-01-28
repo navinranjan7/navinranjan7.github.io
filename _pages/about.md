@@ -10,6 +10,8 @@ redirect_from:
 
 Hi, I’m a **PhD student in Electrical and Computer Engineering (ECE)** at the Rochester Institute of Technology, working with [Dr. Andreas Savakis](https://www.rit.edu/directory/axseec-andreas-savakis) in the Vision & Image Processing Lab. My research focuses on developing **efficient and scalable Vision Transformers (ViTs)** for downstream tasks optimized for edge devices and resource-constrained environments. I specialize in model compression and optimization techniques, including explainability-driven quantization and mixed-precision bit allocation, with a focus on designing these approaches to address resource constraints such as size, computational cost, and latency.
 
+Before joining my PhD, I studied Master's in Electronics Engineering (2019-2021) from Incheon National University (INU), Songdo, South Korea at IoT and Big Data Reserach Center (IBRC), INU and continue my reserach for an additional year (2021-2022). My MS research was interdisciplinary aims to solve multiple reserach problem based on convolutional neural network based architecture, including, City-wide short-long term Traffic congestion forcasting, Scratch segmentation, defect detection, routing algorithm, video frame prediction, etc. I competed by undergraduate in Electrical and Electronics (Communication) (2012-2016) at Kathmandu University, Dhulikhel, Nepal. 
+
 Research Interests
 ======
 
