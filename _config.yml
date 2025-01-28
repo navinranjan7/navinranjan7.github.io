@@ -22,8 +22,8 @@ repository               : "navinranjan7/navinranjan7.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Navin Ranjan"
-  pronouns         : "he/his"  
+  name             : "Navin Ranjan (he/his)"
+  pronouns         : #"he/his"  
   bio              : "Ph.D. student at Rochester Institute of Technology"
   location         : "Rochester, NY"
   employer         : "Rochester Institute of Technology (RIT)"
