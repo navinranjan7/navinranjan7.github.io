@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Navin Ranjan / Site Title"
+title                    : "Navin Ranjan"
 title_separator          : "-"
 name                     : &name "Navin Ranjan"
 description              : &description "personal description"
@@ -22,13 +22,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Navin Ranja"
-  pronouns         : # example: "she/her"  
-  bio              : "Phd Student at Rochester Institute of Technology"
+  name             : "Navin Ranjan"
+  pronouns         : "he/his"  
+  bio              : "Ph.D. student at Rochester Institute of Technology"
   location         : "Rochester, NY"
   employer         : "Rochester Institute of Technology (RIT)"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : #"none@example.org" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
