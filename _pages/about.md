@@ -1,14 +1,12 @@
 ---
 permalink: /
-title: "About me"
+title: "Navin Ranjan"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-# Navin Ranjan
 
 **PhD Candidate in Computer Vision**  
 **Efficient AI · Model Compression · Vision Foundation Models · Edge AI**
