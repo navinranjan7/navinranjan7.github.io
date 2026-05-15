@@ -8,43 +8,52 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I’m a **PhD student in Electrical and Computer Engineering (ECE)** at the Rochester Institute of Technology, working with [Dr. Andreas Savakis](https://www.rit.edu/directory/axseec-andreas-savakis) in the Vision & Image Processing Lab. My research focuses on developing **efficient and scalable Vision Transformers (ViTs)** for downstream tasks optimized for edge devices and resource-constrained environments. I specialize in model compression and optimization techniques, including explainability-driven quantization and mixed-precision bit allocation, with a focus on designing these approaches to address resource constraints such as size, computational cost, and latency.
+# Navin Ranjan
 
-Before starting my PhD, I earned a Master's degree in Electronics Engineering (2019–2021) from Incheon National University (INU), Songdo, South Korea. I worked with Dr. Hoon Kim at the IoT and Big Data Research Center (IBRC) at INU and continued my research there for an additional year (2021–2022). My MS research was interdisciplinary and tackled various problems using convolutional neural network-based architectures, including: City-wide short- and long-term traffic congestion forcasting, scratch segmentation, defect detection, routing algorithm, video frame prediction, etc. I competed my undergraduate degree in Electrical and Electronics Engineering (2012-2016) at Kathmandu University, Dhulikhel, Nepal. 
+**PhD Candidate in Computer Vision**  
+**Efficient AI · Model Compression · Vision Foundation Models · Edge AI**
 
-Research Interests
-======
+I am a PhD Candidate in Electrical and Computer Engineering at the Rochester Institute of Technology, working in the Vision and Image Processing Lab under Prof. Andreas Savakis. My research focuses on making large vision models more efficient, practical, and deployable through model quantization, mixed-precision optimization, and layer-wise sensitivity analysis.
 
+My work centers on efficient Vision Transformers, Segment Anything Models, vision-language models, and vision-language-action models, with a focus on reducing memory, computation, and deployment cost while preserving task performance.
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+## Research Focus
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+- Efficient AI and model compression
+- Post-training and mixed-precision quantization
+- Vision Transformers and transformer compression
+- Vision foundation models, including SAM/SAM3
+- VLM and VLA model efficiency
+- Layer-wise sensitivity analysis and explainability-guided quantization
+- Edge AI deployment using PyTorch, CUDA, ONNX, and TensorRT
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+## Current Research
 
-**Markdown generator**
+My current work focuses on quantization and compression of large vision models. I am especially interested in understanding which layers and components are most sensitive to low-bit quantization, and how this sensitivity can be used to design better mixed-precision quantization methods.
 
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+I work on both algorithmic and deployment-oriented aspects of efficient AI, including layer-wise bit allocation, calibration, transformer component analysis, and practical inference optimization for edge AI systems.
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+## Selected Projects
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+### Mixed-Precision Quantization for Vision Transformers
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+I study mixed-precision quantization methods for Vision Transformers, where sensitive layers are assigned higher precision and less sensitive layers are compressed more aggressively. This work focuses on improving the accuracy-efficiency tradeoff under model size and computational constraints.
+
+### Quantization of SAM/SAM3
+
+I work on fixed-precision and mixed-precision quantization of Segment Anything Models. The goal is to reduce memory and computation while preserving segmentation quality, prompt-conditioned behavior, and spatial detail.
+
+### Efficient VLM/VLA Quantization
+
+I am exploring quantization sensitivity analysis for multimodal models, including vision-language and vision-language-action systems. This work studies how quantization affects not only final outputs, but also internal task evidence and context preservation.
+
+### Edge AI Implementation
+
+I am interested in connecting model compression research with practical deployment using CUDA, ONNX, TensorRT, and hardware-aware evaluation. My goal is to make efficient vision foundation models practical for real-world and edge AI applications.
+
+## Technical Skills
+
+**Research Areas:** Efficient AI, model compression, quantization, mixed-precision optimization, Vision Transformers, vision foundation models, edge AI  
+**Models:** ViT, DeiT, Swin Transformer, SAM/SAM3, VLMs, VLA models  
+**Tools:** Python, PyTorch, CUDA, ONNX, TensorRT, Hugging Face, OpenCV  
+**Tasks:** Image classification, semantic segmentation, object detection, multimodal vision-language reasoning
